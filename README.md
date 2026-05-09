@@ -1,5 +1,5 @@
 # Stuti-Nath
-new project
+New project:
 Downloaded and installed the Cursor IDE on my desktop.
 
 Opened Cursor, went to File, then View and selected Extensions. I searched for and successfully added both the Claude Code and Codex extensions.
